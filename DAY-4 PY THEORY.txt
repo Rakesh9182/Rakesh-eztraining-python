@@ -1,0 +1,10 @@
+# mutable:can be changed after creation.
+LIST[]
+SET{}
+DICTIONARY{:}
+# Immutable:cant be changed after creation.
+INT
+FLOAT
+STRING
+BOOL (TRUE OR FALSE)
+TUPLE()
