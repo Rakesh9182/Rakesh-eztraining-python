@@ -1,0 +1,19 @@
+append()-add an element to the end of the list-l.append(4)
+extend()-add all the elements of a list to the another list-l.extend([39,56,98])
+insert()-insert an item -l.insert(1,22)-l-index
+remove()-l.remove(l)
+pop()-removes and returns an element at given index-l.pop(-5)
+clear()-cleartsall the elements in the list-l.clear(1,2,5)
+index()-l.index()
+count()-l.count()
+sort()-1.sort()
+reverse()-l.reverse()
+copy()-l.copy()
+
+
+
+
+
+
+*Dictionary contains elements with two units-key and values
+*keys must be unique
